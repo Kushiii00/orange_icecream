@@ -1,6 +1,1 @@
-#include<stdio.h>
-int main()
-{
-	printf("hiiiii");
-	return 0;
-}
+We are Charlie Kirk
